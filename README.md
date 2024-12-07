@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yikber
 - 👀 I’m interested in Coding and watching movies
-- 🌱 I’m currently learning fullstack engineer
-- 📫 How to reach me @Yikber_A//telegram
+- 🌱 I’m currently Junior Full Stack Developer at Acacia Technologies PLC
+- 📫 How to reach me @Yikeber_A //telegram
 - ⚡ Fun fact: never give up!
 
 <!---
